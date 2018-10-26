@@ -14,7 +14,7 @@ In this workshop I will:
 #### Installing and Configuring Python
 * You will need Python 3.* installed on your computer. Go to [the Python website](https://www.python.org/downloads) and find the right download for your OS.
 
-#### Download Anaconda
+#### Downloading Anaconda
 * Anaconda is a python distribution which includes pretty much everything you need for out-of-the-box data science work.
 * Download and install Anaconda (for a Python 3.* version) from [https://www.anaconda.com/download](https://www.anaconda.com/download)
 
@@ -29,6 +29,9 @@ conda activate nlp-workshop
 
 #### Downloading the code
 You can download the repository zip file or clone the repository.
+
+#### Downloading the movie review dataset
+Download the IMDB movie review dataset [here](http://ai.stanford.edu/~amaas/data/sentiment/).
 
 #### Running the notebooks
 * Run the following from the project's root folder:
